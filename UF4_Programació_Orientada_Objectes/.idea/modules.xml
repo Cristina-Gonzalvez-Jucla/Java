@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activitat_OOP_Complexa/Activitat_OOP_Complexa.iml" filepath="$PROJECT_DIR$/Activitat_OOP_Complexa/Activitat_OOP_Complexa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitat__Biblioteca/Activitat__Biblioteca.iml" filepath="$PROJECT_DIR$/Activitat__Biblioteca/Activitat__Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Classe/Activitats_Classe.iml" filepath="$PROJECT_DIR$/Activitats_Classe/Activitats_Classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Manel/Activitats_Manel.iml" filepath="$PROJECT_DIR$/Activitats_Manel/Activitats_Manel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/Crea_classe_Persona+static.iml" filepath="$PROJECT_DIR$/untitled/Crea_classe_Persona+static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crea_classe_PersonaMesstatic/Crea_classe_PersonaMesstatic.iml" filepath="$PROJECT_DIR$/Crea_classe_PersonaMesstatic/Crea_classe_PersonaMesstatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GonzalvezCristina_ExamenM03UF4/GonzalvezCristina_ExamenM03UF4.iml" filepath="$PROJECT_DIR$/GonzalvezCristina_ExamenM03UF4/GonzalvezCristina_ExamenM03UF4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herencia/Herencia.iml" filepath="$PROJECT_DIR$/Herencia/Herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo_1/Polimorfismo_1.iml" filepath="$PROJECT_DIR$/Polimorfismo_1/Polimorfismo_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hh/hh.iml" filepath="$PROJECT_DIR$/hh/hh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uf.iml" filepath="$PROJECT_DIR$/uf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

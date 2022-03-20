@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Activitats_Classe" options="--add-modules java.base" />
+      <module name="Activitats_Manel" options="--add-modules java.base" />
+      <module name="GonzalvezCristina_ExamenM03UF4" options="--add-modules java.base" />
+    </option>
+  </component>
+</project>

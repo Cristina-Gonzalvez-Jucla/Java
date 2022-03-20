@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Arrays/Activitats_Arrays.iml" filepath="$PROJECT_DIR$/Activitats_Arrays/Activitats_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Classe/Activitats_Classe.iml" filepath="$PROJECT_DIR$/Activitats_Classe/Activitats_Classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Inicials/Activitats_Inicials.iml" filepath="$PROJECT_DIR$/Activitats_Inicials/Activitats_Inicials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Recap/Activitats_Recap.iml" filepath="$PROJECT_DIR$/Activitats_Recap/Activitats_Recap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UF1_Programació_Estructurada.iml" filepath="$PROJECT_DIR$/.idea/UF1_Programació_Estructurada.iml" />
+    </modules>
+  </component>
+</project>
