@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activitat_FileReader/Activitat_FileReader.iml" filepath="$PROJECT_DIR$/Activitat_FileReader/Activitat_FileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats-Fitxers/Activitats-Fitxers.iml" filepath="$PROJECT_DIR$/Activitats-Fitxers/Activitats-Fitxers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Classe/Activitats_Classe.iml" filepath="$PROJECT_DIR$/Activitats_Classe/Activitats_Classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_FileNewTemplate/Activitats_FileNewTemplate.iml" filepath="$PROJECT_DIR$/Activitats_FileNewTemplate/Activitats_FileNewTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activitats_Manel/Activitats_Manel.iml" filepath="$PROJECT_DIR$/Activitats_Manel/Activitats_Manel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoBinariPrimitiu/DemoBinariPrimitiu.iml" filepath="$PROJECT_DIR$/DemoBinariPrimitiu/DemoBinariPrimitiu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GonzalvezCristina_POU02/GonzalvezCristina_POU02.iml" filepath="$PROJECT_DIR$/GonzalvezCristina_POU02/GonzalvezCristina_POU02.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UF3_Fonaments_Gestio_Fitxers.iml" filepath="$PROJECT_DIR$/.idea/UF3_Fonaments_Gestio_Fitxers.iml" />
     </modules>
   </component>
